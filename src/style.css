@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Sedgwick+Ave+Display&display=swap');
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
