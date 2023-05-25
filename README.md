@@ -10,9 +10,8 @@
 
 # Short review
 <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif" width="400">
-![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif)
-![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif)
-![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif)
+<img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif" width="400">
+<img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif" width="400">
 
 ## Recommended IDE Setup
 
