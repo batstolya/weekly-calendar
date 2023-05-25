@@ -10,10 +10,11 @@
 
 # Short review
 <div style="display: flex;">
-  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif" width="400">
-  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif" width="400">
-  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif" width="400">
+  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif" width="500">
+  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif" width="500">
+  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif" width="500">
 </div>
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
