@@ -8,7 +8,8 @@
  - Enable the ability to click and drag the mouse to select multiple intervals by drawing a curve.
  - Selecting the "all day" column should toggle the selection status of the entire row.
 
-![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif =300x)
+# Short review
+![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif  width="300" height="200")
 ![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif)
 ![Название](https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif)
 
