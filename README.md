@@ -27,7 +27,7 @@ $ git clone https://batstolya/weekly-calendar.git
  ```
 2. Open project in terminal (or GitBash for Windows users):
 ```
-$ code todo-app
+$ code weekly-calendar
 ```
 3. Set up project and install necessary packages in the code-editor you use:
 ```
