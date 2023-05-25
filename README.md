@@ -11,8 +11,8 @@
 # Short review
 <div style="display: flex;">
   <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif" width="500">
-  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif" width="500">
   <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/3.gif" width="500">
+  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/2.gif" width="500">
 </div>
 
 ## Recommended IDE Setup
